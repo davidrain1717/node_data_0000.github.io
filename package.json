@@ -1,0 +1,18 @@
+{
+  "name": "node_data_0000",
+  "version": "1.0.0",
+  "description": "node_data_0000",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+  },
+  "keywords": [],
+  "author": "copilot & davidrain1717",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+  }
+}
