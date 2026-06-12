@@ -1,8 +1,4 @@
-/* NEED TEST */
-/* PUT & GET & DELETE DATA ON NODE BACKEND */
 
-
-/*
 const https = 		require('https');
 const express = 	require('express');
 const fs = 			require('fs');
@@ -166,5 +162,3 @@ app.get('/api/list', (req, res) => {
 https.createServer(httpsOptions, app).listen(3000, () => {
 	console.log( 'Server running on https://localhost:3000' );
 	});
-*/
-
